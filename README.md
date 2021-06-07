@@ -1,5 +1,5 @@
 # anime-faces-generation
-This project uses GAN based neural network to train on anime faces dataset from kaggle. Generator model learns to generate real looking anime similar to what dataset contains but yet clearly differentiable from them.
+This project uses GAN based neural network to train on [anime faces dataset][link4] from kaggle. Generator model learns to generate real looking anime similar to what dataset contains but yet clearly differentiable from them.
 
 ### Output after 50 epochs
 ----
@@ -20,7 +20,7 @@ At lower fps:
 [link1]: <https://github.com/ravis2114/anime-faces-generation/blob/main/generator_anime.h5>
 [link2]: <https://github.com/ravis2114/anime-faces-generation/blob/main/discriminator_anime.h5>
 [link3]: <https://github.com/ravis2114/anime-faces-generation/blob/main/LICENSE>
-
+[link4]: <https://www.kaggle.com/splcher/animefacedataset>
 
 License
 ----
