@@ -22,4 +22,5 @@ At lower fps:
 
 License
 ----
-MIT
+[MIT][link3]
+[link3]: <https://github.com/ravis2114/anime-faces-generation/blob/main/LICENSE>
