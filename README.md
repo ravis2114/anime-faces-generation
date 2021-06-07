@@ -6,6 +6,7 @@ This project uses GAN based neural network to train on anime faces dataset from 
 ![anime after 50 epochs](https://github.com/ravis2114/anime-faces-generation/blob/main/dcgan_anime.gif)
 
 At lower fps:
+----
 ![anime gif at lower fps](https://github.com/ravis2114/anime-faces-generation/blob/main/dcgan_anime_fps.gif)
 
 
