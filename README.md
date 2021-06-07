@@ -19,8 +19,9 @@ At lower fps:
 
 [link1]: <https://github.com/ravis2114/anime-faces-generation/blob/main/generator_anime.h5>
 [link2]: <https://github.com/ravis2114/anime-faces-generation/blob/main/discriminator_anime.h5>
+[link3]: <https://github.com/ravis2114/anime-faces-generation/blob/main/LICENSE>
+
 
 License
 ----
 [MIT][link3]
-[link3]: <https://github.com/ravis2114/anime-faces-generation/blob/main/LICENSE>
